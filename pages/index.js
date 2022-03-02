@@ -21,7 +21,7 @@ export default function Home() {
           <code className={styles.code}>pages/index.js</code>
         </p>
 
-        <h5>HOW ARE YOU DOING TODAY</h5>
+        <h5>HOW ARE YOU DOING TODAY 777777777</h5>
       </main>
 
  
